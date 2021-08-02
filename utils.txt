@@ -1,3 +1,4 @@
 Utility functions for Adrish's software can be found here!
 This is just a test update.
 Test update two after connecting to my GitHub from my Pop!_OS Laptop CLI.
+This update is provided to learn the git diff command and I have deleted something.

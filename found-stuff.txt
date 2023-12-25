@@ -1,0 +1,3 @@
+0. Thought about using C++ as backend.
+1. Found some libraries (thanks to google bard)
+2. I am listing the resources here in the file called resources.txt
